@@ -1,0 +1,10 @@
+<svg width="140" height="32" viewBox="0 0 140 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Punto azul característico de Instance -->
+  <circle cx="8" cy="8" r="4" fill="#00D4FF"/>
+  
+  <!-- Texto "Instance" -->
+  <text x="20" y="22" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="white">
+    Instance
+  </text>
+</svg>
+
