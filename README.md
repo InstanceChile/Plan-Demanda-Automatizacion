@@ -12,7 +12,7 @@ Sistema de automatización para la gestión del Plan de Demanda desarrollado par
 
 ## 📋 Requisitos Previos
 
-- Node.js 18+ 
+- Node.js 18.20.4
 - npm o yarn
 - Cuenta en Supabase (para base de datos)
 
